@@ -1,6 +1,7 @@
 # lab02-kgusdorf
 
 Javadoc: https://github.com/ucsb-cs56-w20/lab02-kgusdorf/index.html
+
 Repo: https://github.com/ucsb-cs56-w20/lab02-kgusdorf
 
 # About this repo
